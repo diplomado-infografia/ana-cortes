@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 566.93 566.93">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#DEPORTES_nuevo_100_4);
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        font-size: 16.8px;
+      }
+
+      .cls-2, .cls-5, .cls-4, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10 {
+        font-family: DuplicateSans-Bold, 'Duplicate Sans';
+        font-weight: 700;
+      }
+
+      .cls-2, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17 {
+        fill: #1d1d1b;
+      }
+
+      .cls-18 {
+        fill: #d9effb;
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-6 {
+        letter-spacing: 0em;
+      }
+
+      .cls-6, .cls-19, .cls-7 {
+        fill: #83d0f5;
+      }
+
+      .cls-20 {
+        letter-spacing: 0em;
+      }
+
+      .cls-11, .cls-12, .cls-21, .cls-14, .cls-22, .cls-23, .cls-24, .cls-15, .cls-25, .cls-26, .cls-16, .cls-27, .cls-17 {
+        font-family: DuplicateSans-Regular, 'Duplicate Sans';
+      }
+
+      .cls-28, .cls-27 {
+        fill: #009fe3;
+      }
+
+      .cls-12 {
+        letter-spacing: 0em;
+      }
+
+      .cls-29 {
+        letter-spacing: 0em;
+      }
+
+      .cls-30, .cls-31 {
+        fill: none;
+      }
+
+      .cls-31 {
+        stroke: #1d1d1b;
+        stroke-miterlimit: 10;
+        stroke-width: .93px;
+      }
+
+      .cls-32, .cls-25 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-21, .cls-22, .cls-33, .cls-8 {
+        fill: #dd2246;
+      }
+
+      .cls-21, .cls-27, .cls-17 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-34 {
+        fill: #eef1f2;
+      }
+
+      .cls-13, .cls-14 {
+        font-size: 14.94px;
+      }
+
+      .cls-35 {
+        letter-spacing: 0em;
+      }
+
+      .cls-36 {
+        fill: #007cb0;
+      }
+
+      .cls-22 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-37 {
+        letter-spacing: 0em;
+      }
+
+      .cls-38 {
+        fill: url(#NACION2_nuevo_100_);
+      }
+
+      .cls-24 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-15 {
+        letter-spacing: 0em;
+      }
+
+      .cls-39 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-40, .cls-9 {
+        fill: #005ca9;
+      }
+
+      .cls-26, .cls-41 {
+        letter-spacing: 0em;
+      }
+
+      .cls-42 {
+        letter-spacing: 0em;
+      }
+
+      .cls-16 {
+        letter-spacing: 0em;
+      }
+
+      .cls-43 {
+        fill: #a9bac3;
+      }
+    </style>
+    <pattern id="NACION2_nuevo_100_" data-name="NACION2_nuevo_100%" x="0" y="0" width="5.66" height="5.66" patternTransform="translate(5237.73 6413.48) scale(1.67 1.8)" patternUnits="userSpaceOnUse" viewBox="0 0 5.66 5.66">
+      <g>
+        <rect class="cls-30" width="5.66" height="5.66"/>
+        <polygon class="cls-28" points="3.18 0 0 3.18 0 5.66 2.47 5.66 5.66 2.47 5.66 0 3.18 0"/>
+        <polygon class="cls-36" points="2.47 0 0 2.47 0 3.18 3.18 0 2.47 0"/>
+        <polygon class="cls-28" points="0 0 0 2.47 2.47 0 0 0"/>
+        <polygon class="cls-36" points="2.47 5.66 3.18 5.66 5.66 3.18 5.66 2.47 2.47 5.66"/>
+        <polygon class="cls-28" points="3.18 5.66 5.66 5.66 5.66 3.18 3.18 5.66"/>
+      </g>
+    </pattern>
+    <pattern id="DEPORTES_nuevo_100_4" data-name="DEPORTES_nuevo_100% 4" x="0" y="0" width="5.66" height="5.66" patternTransform="translate(6845.5 6870.37) scale(1.87)" patternUnits="userSpaceOnUse" viewBox="0 0 5.66 5.66">
+      <g>
+        <rect class="cls-30" width="5.66" height="5.66"/>
+        <polygon class="cls-18" points="3.18 0 0 3.18 0 5.66 2.47 5.66 5.66 2.47 5.66 0 3.18 0"/>
+        <polygon class="cls-43" points="2.47 0 0 2.47 0 3.18 3.18 0 2.47 0"/>
+        <polygon class="cls-18" points="0 0 0 2.47 2.47 0 0 0"/>
+        <polygon class="cls-43" points="2.47 5.66 3.18 5.66 5.66 3.18 5.66 2.47 2.47 5.66"/>
+        <polygon class="cls-18" points="3.18 5.66 5.66 5.66 5.66 3.18 3.18 5.66"/>
+      </g>
+    </pattern>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.7.1, SVG Export Plug-In . SVG Version: 1.2.0 Build 142)  -->
+  <g>
+    <g id="Capa_1">
+      <g>
+        <g>
+          <rect class="cls-38" x="94.23" y="166.38" width="178.66" height="19.28"/>
+          <rect class="cls-1" x="272.89" y="166.38" width="200.34" height="19.28"/>
+          <text class="cls-4" transform="translate(168.75 181.1)"><tspan class="cls-35" x="0" y="0">47</tspan><tspan x="17.73" y="0">%</tspan></text>
+          <text class="cls-2" transform="translate(358.5 181.1)"><tspan class="cls-29" x="0" y="0">53</tspan><tspan x="17.01" y="0">%</tspan></text>
+        </g>
+        <g id="Text">
+          <text class="cls-14" transform="translate(299.56 206.71)"><tspan class="cls-42" x="0" y="0">Área</tspan><tspan class="cls-37" x="27.28" y="0">s</tspan><tspan class="cls-39" x="33.27" y="0"> </tspan><tspan class="cls-42" x="35.86" y="0">abierta</tspan><tspan x="77.5" y="0">s</tspan><tspan class="cls-39" x="83.49" y="0"> </tspan><tspan class="cls-37" x="86.08" y="0">y</tspan><tspan class="cls-39" x="93.3" y="0"> </tspan><tspan class="cls-42" x="95.89" y="0">servicio</tspan><tspan x="141.01" y="0">s</tspan></text>
+        </g>
+      </g>
+      <rect class="cls-34" x="94.41" y="266.78" width="108.69" height="60.49"/>
+      <line class="cls-31" x1="94.23" y1="297.02" x2="329.01" y2="297.02"/>
+      <g id="Text-2" data-name="Text">
+        <text class="cls-14" transform="translate(103.15 281.9)"><tspan class="cls-41" x="0" y="0">Plant</tspan><tspan x="30.41" y="0">a</tspan><tspan class="cls-32" x="37.25" y="0"> </tspan><tspan class="cls-41" x="39.84" y="0">superio</tspan><tspan class="cls-20" x="84" y="0">r </tspan></text>
+      </g>
+      <g id="Text-3" data-name="Text">
+        <text class="cls-14" transform="translate(103.15 322.23)"><tspan class="cls-41" x="0" y="0">Plant</tspan><tspan x="30.41" y="0">a</tspan><tspan class="cls-32" x="37.25" y="0"> </tspan><tspan class="cls-41" x="39.84" y="0">inferio</tspan><tspan class="cls-20" x="77.82" y="0">r</tspan></text>
+      </g>
+      <g id="Text-4" data-name="Text">
+        <text class="cls-13" transform="translate(117.38 206.71)"><tspan class="cls-5" x="0" y="0">2</tspan><tspan class="cls-10" x="7.38" y="0">4</tspan><tspan class="cls-25" x="15.85" y="0"> </tspan><tspan class="cls-26" x="18.44" y="0">Sala</tspan><tspan class="cls-23" x="42.06" y="0">s</tspan><tspan class="cls-24" x="48.05" y="0"> </tspan><tspan class="cls-26" x="50.65" y="0">d</tspan><tspan class="cls-23" x="58.76" y="0">e</tspan><tspan class="cls-25" x="65.99" y="0"> </tspan><tspan class="cls-26" x="68.59" y="0">exposició</tspan><tspan class="cls-23" x="124.62" y="0">n</tspan></text>
+      </g>
+      <rect class="cls-19" x="217.04" y="302.06" width="9.34" height="9.34" rx="4.67" ry="4.67"/>
+      <rect class="cls-19" x="231.97" y="302.06" width="9.34" height="9.34" rx="4.67" ry="4.67"/>
+      <rect class="cls-19" x="246.91" y="302.06" width="9.34" height="9.34" rx="4.67" ry="4.67"/>
+      <rect class="cls-19" x="261.85" y="302.06" width="9.34" height="9.34" rx="4.67" ry="4.67"/>
+      <rect class="cls-19" x="276.78" y="302.06" width="9.34" height="9.34" rx="4.67" ry="4.67"/>
+      <rect class="cls-19" x="217.06" y="315.85" width="9.34" height="9.34" rx="4.67" ry="4.67"/>
+      <rect class="cls-19" x="231.99" y="315.85" width="9.34" height="9.34" rx="4.67" ry="4.67"/>
+      <rect class="cls-19" x="246.93" y="315.85" width="9.34" height="9.34" rx="4.67" ry="4.67"/>
+      <rect class="cls-19" x="261.87" y="315.85" width="9.34" height="9.34" rx="4.67" ry="4.67"/>
+      <rect class="cls-19" x="276.8" y="315.85" width="9.34" height="9.34" rx="4.67" ry="4.67"/>
+      <rect class="cls-19" x="291.74" y="315.85" width="9.34" height="9.34" rx="4.67" ry="4.67"/>
+      <rect class="cls-40" x="306.68" y="315.85" width="9.34" height="9.34" rx="4.67" ry="4.67"/>
+      <rect class="cls-40" x="321.61" y="315.85" width="9.34" height="9.34" rx="4.67" ry="4.67"/>
+      <text class="cls-3" transform="translate(336.88 246.45)"><tspan class="cls-8" x="0" y="0">2</tspan><tspan class="cls-27" x="8.45" y="0"> </tspan><tspan class="cls-12" x="11.37" y="0">nueva</tspan><tspan class="cls-16" x="52.03" y="0">s</tspan><tspan class="cls-17" x="58.77" y="0"> </tspan><tspan class="cls-12" x="61.69" y="0">202</tspan><tspan class="cls-11" x="87.11" y="0">4</tspan></text>
+      <rect class="cls-19" x="217.06" y="269.15" width="9.34" height="9.34" rx="4.67" ry="4.67"/>
+      <rect class="cls-19" x="231.99" y="269.15" width="9.34" height="9.34" rx="4.67" ry="4.67"/>
+      <rect class="cls-19" x="246.93" y="269.15" width="9.34" height="9.34" rx="4.67" ry="4.67"/>
+      <rect class="cls-19" x="261.87" y="269.15" width="9.34" height="9.34" rx="4.67" ry="4.67"/>
+      <rect class="cls-19" x="217.08" y="282.94" width="9.34" height="9.34" rx="4.67" ry="4.67"/>
+      <rect class="cls-19" x="232.01" y="282.94" width="9.34" height="9.34" rx="4.67" ry="4.67"/>
+      <rect class="cls-19" x="246.95" y="282.94" width="9.34" height="9.34" rx="4.67" ry="4.67"/>
+      <rect class="cls-19" x="261.89" y="282.94" width="9.34" height="9.34" rx="4.67" ry="4.67"/>
+      <rect class="cls-19" x="276.82" y="282.94" width="9.34" height="9.34" rx="4.67" ry="4.67"/>
+      <g>
+        <rect class="cls-33" x="276.8" y="269.15" width="9.34" height="9.34" rx="4.67" ry="4.67"/>
+        <circle class="cls-19" cx="281.47" cy="273.82" r="1.99"/>
+      </g>
+      <text class="cls-3" transform="translate(104.3 246.45)"><tspan class="cls-6" x="0" y="0">2</tspan><tspan class="cls-7" x="8.3" y="0">2</tspan><tspan class="cls-21" x="16.76" y="0"> </tspan><tspan class="cls-15" x="19.67" y="0">permanente</tspan><tspan class="cls-11" x="102.05" y="0">s</tspan></text>
+      <text class="cls-3" transform="translate(231.32 246.45)"><tspan class="cls-9" x="0" y="0">2</tspan><tspan class="cls-22" x="8.45" y="0"> </tspan><tspan class="cls-12" x="11.37" y="0">temporale</tspan><tspan class="cls-16" x="80.59" y="0">s</tspan></text>
+      <g>
+        <rect class="cls-33" x="291.74" y="282.94" width="9.34" height="9.34" rx="4.67" ry="4.67"/>
+        <circle class="cls-19" cx="296.41" cy="287.61" r="1.99"/>
+      </g>
+    </g>
+  </g>
+</svg>
